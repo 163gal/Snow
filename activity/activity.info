@@ -7,4 +7,4 @@ icon = activity-icon
 activity_version = 1
 mime_types = 
 show_launcher = yes
-
+repository = https://github.com/sugarlabs/snow.git
